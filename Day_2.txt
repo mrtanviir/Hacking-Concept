@@ -1,1 +1,42 @@
-This is day 02
+*** 5 Phases of Ethical Hacking ***
+
+#Phase 1: Reconnaissance(Collect Data)
+
+          The first phase is Reconnaissance, where hacker gather as much information as possible about the target.
+
+          Ex:Open-source intelligence(OSINT), WHOIS Lookup, DNS Enumeration, Google Dorking and Social Engineering.
+
+#Phase 2: Scanning(System Scanning)
+
+          Here, hacker find vulnerabilities in the targeted system using tool like Nmap and Nikto!
+
+          Ex: Nmap --> Network Scanning         
+              Wireshark --> Packet analysis
+              Nikto --> Web Server Scanning
+
+#Phase 3: Gaining Access(Exploitation)
+
+          Hackers try to enter the system using SQL Injection, Phising, or Exploits!
+
+          Ex: Weak Password Exploitation,        
+              SQL Injection, XSS,
+              Phising Attack
+
+#Phase 4: Maintaining Access(Backdoor Setup)
+
+          Once inside, hacker wants to maintain access!
+          They use Backdoors, Rootkits, or Trojans to keep the door open for future attacks!
+
+          Ex: Metasploit Backdoor,         
+              Netcat,
+              Reverse Shell
+
+#Phase 5: Covering Tracks(Remove records )
+
+          In the final step, hackers cover theri tracks - erasing logs, deleting IP traces, So no one can catch them!
+
+          Ex: Shred --> Secure file deletion
+              CCleaner --> Log cleanup
+
+
+              
