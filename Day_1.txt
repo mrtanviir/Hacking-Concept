@@ -1,0 +1,17 @@
+***What is hacking***
+    ==> Hacking means finding vulnerabilities in system, networks, or  applications and exploiting them. It can be for good or bad purposes.
+
+**Types of hacking:** Ethical and Unethical
+    ==> 5 types of hackers:
+
+    1. White Hat Hacker :
+                        These are the good guys! They work to strengthen cybersecurity by finding and fixing security flaw in the companies.
+    2.Black Hat Hacker  :
+                        These are the villains! They illegally steal data , hack system, and are involved in various cyber crimes.
+    3.Grey Hat Hacker   :
+                        These are in-between! SOmetimes good, sometimes bad, They break into system without permission but report issues instead of causing harm.
+    4.Script Kiddies    :
+                        Beginners! They use scripts made by others to try hacking.
+    5.Hacktivists       : 
+                        They hack for plitical or social causes!
+
