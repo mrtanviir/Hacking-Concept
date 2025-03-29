@@ -1,0 +1,29 @@
+******* 25 Basic Linux Terminal Commands ************
+
+    01. man-> Used to display the user manual of any command that we can run on 
+              the terminal.
+    02. ls-> List the contents of the directory.
+    03. mkdir-> Create a new directory.
+    04. cd-> Change to a different directory.
+    05. touch-> Create a empty text file.
+    06. cat-> Shows the contents of a text file.
+    07. cp-> Copy a file or a directory.
+    08. mv-> Used to move a file or directory.
+    09. rm-> Remove a file or directory.
+    10. rmdir-> Remove empty directory from a directiories list.
+    11. uname-> Used to get basic information about the OSI.
+    12. ps-> Display the processes in terminal.
+    13. ping-> Test the network connectivity.
+    14. history-> Gets the list of previously executed commands.
+    15. echo-> Print string or text to the terminal.
+    16. cowsay-> Cowsay is a configurable taling cow.
+                 It accepts a text string and outputs a graphics of acow talking.
+    17. whoami-> Display the current usersname.
+    18. cmatrix-> Simulates the display from "The Matrix".
+    19. cal-> View Calendar in terminal.
+    20. pwd-> Display present working directory.
+    21. date-> View date in terminal.
+    22. top-> display Linux processes.
+    23. hollywood-> Fill your console with Hollywood melodrama technobable.
+    24. clear-> Clear terminal.
+    25. exit-> Used to exit fromthe current terminal.
