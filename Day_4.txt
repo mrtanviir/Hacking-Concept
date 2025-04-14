@@ -1,0 +1,19 @@
+======OSNIT=======
+Gather personal information in privately hidden on the internet
+
+>> intitle: "index of" "private" |----> Kali Linux tools: Sherlock(username to find all social media account);
+>> haveibeenpwned --> does email address exits any database?
+
+
+
+==How hacker gather information from any victim==
+
+>> inurl:responsible disclosure(Bug bounty hunted information show) 
+>> who.is(target website domain name)-->Provide information about the website |-->     Kali Linux tools: whois
+>> whatweb(show web technology) |---> Kali Linux tools: whois
+>> ping google.com(show ip address)
+>> subdomainfinder.c99.nl (show subdomain)
+>> dnsmap(find subdomain in kali Linux)
+>> archive.org(get targeted website history)
+
+
