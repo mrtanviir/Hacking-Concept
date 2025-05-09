@@ -1,0 +1,21 @@
+>>What is Social Engineering?
+=> Social Engineering is a hacking technique, that manipulates people into revealing confidential information.
+
+>>What is Phishing?
+=> Phishing is one of the most common types of social engineering, where attackers trick victims into providing sensitive data like password, credit card details, or login credentials pretending to be a trusted entity.
+
+>>Most Common Types of Phishing Attacks:
+
+ >>Email Phishing: Attackers send fake emails pretending to be a trusted company.
+		   The email contains malicious links or attachments that steal login 		   credentials or install malware.
+
+ >>Spear Phishing: Instead of random attacks, hackers research their target and send 		   personalized emails. An employee at a tech company receives an 		   email from HR asking to update their salary details via fake link.
+
+ >>Smishing : Attackers send phishing messages via text instead of email.
+
+ >>Vishing : Phishers call victims pretending to be bank representatives, tech 		     support, or government agents to extract sensitive information.
+
+ >>Whaling : Attackers target high-profile individuals like CEO's, CFO's and 		     executive to steal money or confidential data.
+
+Tools: Socialphish GitHub.
+       >> Run command: chmod +x socialphish.sh
