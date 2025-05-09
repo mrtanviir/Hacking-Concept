@@ -1,0 +1,10 @@
+>>What is Web Penetration Testing?
+=> Penetration testing, or 'pentesting' is security testing process. where an Ethical Hacker/Pentester scans a website or web application to find vulnerabilities.
+
+>> 5 Steps of Web Penetration Testing:
+=> 1. Reconnaissance. 2. Scanning. 3. Exploitation. 4. Reporting. 5. Fixing.
+
+>> How to Start Web Pentesting?
+=> 1. Learn the Basics: Linux, Networking, Programming(HTML, Python, JavaScript, PHP)
+
+>>Popular Tools: Nmap(network scanning), Metasploit(exploitation), Burp Suite(web app security), Wireshark(network analysis), John the Ripper(password cracking).
